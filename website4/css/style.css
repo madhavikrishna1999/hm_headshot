@@ -11,6 +11,10 @@ table{
     height: 100%;
 }
 
+tr{
+    background-color: gray
+}
+
 /*td,th clubbing/grouping to tag selectors together */
 td,th{
     border: solid 1px yellow;
@@ -19,6 +23,7 @@ td,th{
 th{
     width: 10%;
 }
+
 /* tr:nth-child(even){
     color: orange;
     text-decoration: underline;
