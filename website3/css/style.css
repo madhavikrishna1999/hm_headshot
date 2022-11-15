@@ -12,6 +12,6 @@ h2{
 }
 /* parent->child only applicable to h2 which are inside section */
 section h2{
-    boarder:solid 2px yellow;
+    border:solid 2px yellow;
     text-align: center;
 }
